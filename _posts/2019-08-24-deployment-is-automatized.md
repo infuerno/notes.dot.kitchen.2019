@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-08-24 15:33:32
-title: deployment is automatized
+title: Deployment is automatized
 
 ---
 ![Why Jamstack](/v1566661062/why-jamstack_bpjjef.png)
