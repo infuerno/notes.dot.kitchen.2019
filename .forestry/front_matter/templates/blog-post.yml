@@ -18,3 +18,5 @@ fields:
     export_format: YYYY-MM-DD HH:mm:ss
     time_format: HH:mm:ss
   default: now
+pages:
+- _posts/deployment-is-automatized.md
