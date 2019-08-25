@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Giganews reevaluated
-date: '2010-12-21 15:02:15'
+date: 2010-12-21 15:02:15
+
 ---
-
-
 I’ve been signed up with [Giganews](http://www.giganews.com/) for a couple of years.
 
 Used to use Easynews for a while in conjunction with a great usenet program called Thoth written for the Mac. I was living in Japan at the time and wanted a way to catch up on the odd UK TV program. Eventually development discontinued and support stopped. The program was still available and worked fine, but I’ve never got excited about using something that isn’t getting constantly updated. I couldn’t find another usenet program I liked and I’d moved back to the UK, so I gave up Easynews and fell back on my free Teranews account whilst continuing a half hearted search.
@@ -23,8 +22,6 @@ Until I saw the [Pay As You Go](http://www.news.astraweb.com/downloadplans.html)
 
 Here are my stats for my Giganews account usage for the last couple of years.
 
-[![](http://www.xubik.com/wp/wp-content/uploads/2010/12/giganews-transfer-stats.png "Giganews - Transfer Stats")](http://www.xubik.com/wp/wp-content/uploads/2010/12/giganews-transfer-stats.png)and payment history
+![Giganews - Transfer Stats](https://res.cloudinary.com/notesdotkitchen/image/upload/v1444505544/giganews-transfer-stats_whtf4e.png)
 
 So I’d paid a total of $290.76 for 106GB over the course of two years. With the same astraweb PAYG plan, that would have cost just over $40.
-
-
